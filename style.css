@@ -1,0 +1,34 @@
+.logo {
+ text-align: center; 
+ background-color: #E5E5E5;  
+}
+
+.curriculum {
+    font-family: 'Times New Roman';
+    font-weight: 700;
+    background-color: #C4C4C4;
+    color: #005677;
+    text-align: center;
+}
+
+.espaciado {
+    display: inline-table;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+h3{
+    color: #005677;
+    background-color: #C4C4C4;
+    font-family: 'Times New Roman';
+}
+p {
+    background-color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+#redes {
+    float: right;
+    display: inline-table;
+}
